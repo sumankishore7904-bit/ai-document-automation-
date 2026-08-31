@@ -1,0 +1,24 @@
+# AI / LLM
+openai
+python-dotenv
+pydantic
+
+# Document Processing
+PyMuPDF
+
+# Agentic AI
+langchain
+langchain-core
+langgraph
+
+# Backend
+fastapi
+uvicorn
+python-multipart
+
+# Testing
+pytest
+pytest-mock
+
+# Utilities
+requests
